@@ -1,4 +1,20 @@
-#h1 {
+h1 {
     text-align: center;
     color:rgb(228, 27, 27);
     }
+
+h2 {
+    text-align: left;
+    color: darkgoldenrod;
+    }
+.text {
+    background-color: coral;
+    }
+#colors {
+}
+#BCN {
+    text-align: center;
+    border-radius: 10px;
+    border-style: dotted;
+    border-color: darkmagenta;
+}
